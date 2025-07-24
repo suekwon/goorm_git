@@ -1,2 +1,0 @@
-f3.txt create.
-after sync remote reposytory.
